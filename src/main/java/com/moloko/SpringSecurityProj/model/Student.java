@@ -1,4 +1,4 @@
-package com.moloko.SpringSecurityProj;
+package com.moloko.SpringSecurityProj.model;
 
 public class Student
 {
